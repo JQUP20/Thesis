@@ -12,11 +12,11 @@ Johannes Hauschild, Eyal Leviatan, Jens H. Bardarson, Ehud Altman, Michael P. Za
 
 | 文件 | 内容 |
 |------|------|
-| [01_背景知识.md](01_背景知识.md) | 混态、纯化、MPS、Rényi熵等基础概念 |
-| [02_热场双态.md](02_热场双态.md) | 热场双态 (TFD) 的定义与性质 |
-| [03_解纠缠算法.md](03_解纠缠算法.md) | 核心算法：最小纠缠纯化的迭代优化方法 |
-| [04_数值结果.md](04_数值结果.md) | Ising 模型和 Heisenberg 模型的数值结果 |
-| [05_总结与影响.md](05_总结与影响.md) | 结论、局限性及对后续研究的影响 |
+| [01_background.md](01_background.md) | 混态、纯化、MPS、Rényi熵等基础概念 |
+| [02_thermofield_double.md](02_thermofield_double.md) | 热场双态 (TFD) 的定义与性质 |
+| [03_disentangler_algorithm.md](03_disentangler_algorithm.md) | 核心算法：最小纠缠纯化的迭代优化方法 |
+| [04_numerical_results.md](04_numerical_results.md) | Ising 模型和 Heisenberg 模型的数值结果 |
+| [05_conclusion.md](05_conclusion.md) | 结论、局限性及对后续研究的影响 |
 
 ## 一句话总结
 
